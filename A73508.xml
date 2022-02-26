@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exposicyon vpon a pece of saint James epistle to the ende of ye second chapitre, begynnynge at D.in ye same chapitre: as hereafter foloweth</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1536</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73508</idno>
+            <idno type="STC">STC 2987</idno>
+            <idno type="STC">ESTC S124413</idno>
+            <idno type="EEBO-CITATION">99898338</idno>
+            <idno type="PROQUEST">99898338</idno>
+            <idno type="VID">133187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133187)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2059:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exposicyon vpon a pece of saint James epistle to the ende of ye second chapitre, begynnynge at D.in ye same chapitre: as hereafter foloweth</title>
+               </titleStmt>
+               <extent>[36] p.   </extent>
+               <publicationStmt>
+                  <publisher>in fletestrete, at ye signe of the sonne, by me Johan Byddell,</publisher>
+                  <pubPlace>[Imprynted at London :</pubPlace>
+                  <date>anno d[o]m 1536]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures A-D⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  James --  Commentaries --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133187:1" rendition="simple:additions"/>
+            <pb facs="tcp:133187:1" rendition="simple:additions"/>
+            <pb facs="tcp:133187:2"/>
+            <pb facs="tcp:133187:2" rendition="simple:additions"/>
+            <p>¶An expo<g ref="char:EOLunhyphen"/>ſicyon vpon a pece of ſaint Iames epiſtle to the ende of y<hi rend="sup">e</hi> ſecond chapitre, begynnynge at D. in y<hi rend="sup">e</hi> ſame cha<g ref="char:EOLhyphen"/>pitre: as here<g ref="char:EOLhyphen"/>after folo<g ref="char:EOLhyphen"/>weth.</p>
+            <q>I wyl powre out of my ſpiryte vpon all fleſſhe: Your ſones and your doughters ſhal pro<g ref="char:EOLhyphen"/>pheſye: your yonge men ſhall ſe viſyons, and your olde men ſhall dreame dreames. <bibl>
+                  <abbr>Ioel</abbr>. ij. Act. ij.</bibl>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>printer's or publisher's device</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133187:3"/>
+            <pb facs="tcp:133187:3"/>
+            <epigraph>
+               <bibl>Iac. ii.</bibl>
+               <q>what auaileth it my brethren though a man ſay that he hath faith / if he haue no dedꝭ / can fayth ſaue hym?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">H</seg>Ere it is plaine / that Iames ſpeketh of ſuche an hiſtorical fayth, as is nowe amonge chryſten people for the mooſt parte / whiche whan they do byleue all thynges that be ſpoken of in ſcryptures, as they do a tale of Robyn hode, or of Geſta Romano<expan>
+                  <am>
+                     <g ref="char:abrum"/>
+                  </am>
+                  <ex>rum</ex>
+               </expan>, thynke it is ſuffi<g ref="char:EOLunhyphen"/>cient ynough as concernyng fayth to be ſaued by: moued onely by au<g ref="char:EOLhyphen"/>ctorite of theyr elders: as y<hi rend="sup">e</hi> Iewes and Turkꝭ byleue theyr lawe. And that ye may y<hi rend="sup">e</hi> better perceyue that he ſpeaketh of ſuche a ſtory, or deed faythe: Note y<hi rend="sup">t</hi> he ſayth not, what auayleth it thoughe a man haue
+<pb facs="tcp:133187:4"/> fayth / but what auayleth it ſayth Iames, though a man ſay that he hath fayth? And truthe it is, that ſuche a ſtory or deed faith onely: as to byleue that Chriſt was borne of the virgyn Marye / that he ſuffred dethe / roſe agayne and aſcended in to heuen: can iuſtifie or ſaue a man no more than that ſame ſtory fayth dothe iuſtifye the deuylles, whiche (as ſaynt Iames ſayth (do byleue all theſe thynges as well as they. Moreouer, yf ſuche an hiſtorycall faythe coulde iuſtifye, that is, ob<g ref="char:EOLhyphen"/>teyne and purchace remyſſyon of ſynnes: than ſholde all ſuche falſe preachers y<hi rend="sup">t</hi> the ſcriptures threat<g ref="char:EOLhyphen"/>neth with ſuche dampnacion, be ſa<g ref="char:EOLunhyphen"/>ued as wel as they that preache in Chriſtes name. Alſo yf ſuch a deed faythe coulde iuſtifye or ſaue, than ſholde all that beare the name of
+<pb facs="tcp:133187:4"/> Chriſt be ſaued, which is contrary to the worde of god, whiche ſayth. Math. vij. Entre in at the ſtraight gate / for wyde is the gate, &amp; brode is the way y<hi rend="sup">t</hi> leadeth to deſtruction, &amp; many there be y<hi rend="sup">t</hi> entre in therat. But ſtrayght is the gate, &amp; narowe is the waye that leadeth vnto lyfe, and fewe there be that fynde it. Now yf there be any ſo folyſſhe (as I thi<g ref="char:cmbAbbrStroke">̄</g>ke there be none) as to byleue that Iewes and Turkes, w<hi rend="sup">t</hi> ſuche other infidels, ſhal onely entre in to that wyde gate of deſtruction, and that Chryſt calleth it y<hi rend="sup">e</hi> brode way, bycauſe there be ſo many of them that ſhal be dampned / than I pray you herken what Chryſte ſayd af<g ref="char:EOLhyphen"/>terwarde i<g ref="char:cmbAbbrStroke">̄</g> the ſame chapitre. Not all they that ſaye vnto me, mayſter mayſter ſhal entre in to y<hi rend="sup">e</hi> kingdom of heuen, but he y<hi rend="sup">t</hi> fulfilleth my fa<g ref="char:EOLhyphen"/>thers
+<pb facs="tcp:133187:5"/> wyl which is in heuen. Ma<g ref="char:EOLhyphen"/>ny wyll ſay vnto me (ſayth Chryſt Math. vij.) in that daye. Mayſter mayſter, haue not we in thy name proheſyed, &amp; in thy name haue not we caſte out deuylles? And in thy name haue not we done myracles? And than wyll I knowlege vnto them that I knowe them not / de<g ref="char:EOLhyphen"/>parte from me al ye that worke ini<g ref="char:EOLhyphen"/>quite. Saynt Paule alſo, ſhewyng that ſuche a ſtory faythe coulde not iuſtifie: ſayth theſe wordes. Tit. j. All thynges are pure to them that be pure / but vnto y<hi rend="sup">e</hi> defyled and vn<g ref="char:EOLhyphen"/>byleuers nothyng is pure / but the mynde &amp; conſcience of them is pol<g ref="char:EOLhyphen"/>luted. They confeſſe (ſayth Paule) that they know god, but with their dedes they denye hym, &amp; are abho<g ref="char:EOLhyphen"/>minable, diſobedient, and vnto all good workes diſcommendable.
+<pb facs="tcp:133187:5"/> Many places of ſcripture there be whiche myght be brought in here for this purpoſe / notwithſtandyng bycauſe I wyl not be tedious vnto you, I wyl ſhewe you but this one texte more of ſaynt Paule. Eph. v. Sayeng that no whoremonger, ey<g ref="char:EOLunhyphen"/>ther vnclene ꝑſone, or couetous per<g ref="char:EOLunhyphen"/>ſone (whiche is the worſhypper of ydols) hath any in heritau<g ref="char:cmbAbbrStroke">̄</g>ce in the kyngdome of god. That is to ſaye, yf they continue ſtyll in theſe vyces vnto theyr ende. And howe thynke ye? be none that be called chriſtians whoremongers? or els is chryſten<g ref="char:EOLhyphen"/>dome w<hi rend="sup">t</hi>out vnclene perſons? Yea &amp; how many are couetyſe euen vntyl the brethe go out of theyr bodyes? And nowe to declare more playnly that ſuch a ſtoryck or deed faith can not iuſtifye or ſaue a ma<g ref="char:cmbAbbrStroke">̄</g>, ſ. Iames bryngeth forth an example, which
+<pb facs="tcp:133187:6"/> is ſo playne, that it nedeth no decla<g ref="char:EOLunhyphen"/>racyon: ſayenge theſe wordes.
+<q>If a brother or a ſiſter be na<g ref="char:EOLunhyphen"/>ked / or deſtitute of dayly fo<g ref="char:EOLhyphen"/>de / and one of you ſaye vnto hym: departe in gods name / god ſende you warmenes &amp; fode / notwithſtandynge ye gyue him not thoſe thinges that are nedeful to the body / what helpeth it them? Eue<g ref="char:cmbAbbrStroke">̄</g> ſo faythe / yf it haue no dedes is deed in it ſelfe.</q>
+            </p>
+            <p>¶Or euer I procede any farther, I wyll ſhewe you what is the true fayth, which the choſen children of god muſt byleue. He muſte byleue ſtedfaſtly &amp; ſurely w<hi rend="sup">t</hi>out wauering, not onely god the father, ſone, &amp; ho<g ref="char:EOLhyphen"/>ly gooſt, but muſt put all his truſt,
+<pb facs="tcp:133187:6"/> hope, &amp; ꝯfydence to be ſaued only by him / and bileue that he is our god, our father, to vs an almyghty hel<g ref="char:EOLhyphen"/>per and deliuerer. Tit. iij. And that he hath choſen vs of his mere mer<g ref="char:EOLhyphen"/>cy to be ſaued before y<hi rend="sup">e</hi> begynnynge of the worlde. Rom<g ref="char:cmbAbbrStroke">̄</g>. v. And that he loued vs ſo well, that whan we were yet his enemyes, he reconſi<g ref="char:EOLhyphen"/>led vs vnto hym, by the dethe and merytes of his ſone, our ſauyoure Ieſus Chriſt. Vpon which byleue and ſure perſwaſyon, we loue hym ſo erneſtly agayne, that we ceaſe not (tyme &amp; occaſyon offred) to ful<g ref="char:EOLhyphen"/>fyll his co<g ref="char:cmbAbbrStroke">̄</g>maundementes in doing the workes of charite to our neygh<g ref="char:EOLunhyphen"/>bour. Of this lyuely faythe ſpea<g ref="char:EOLhyphen"/>keth Paule alwayes. Galath. v. which by charite or loue is mighty in operacyon. Alſo Paule ſaythe. Roma. viij. Yf any man haue not
+<pb facs="tcp:133187:7"/> the ſpiryte of Chryſt, he is none of Chryſtes. Wherfore (ſayth he) yf the ſpiryte of Chryſte dwell in you, euen he that reyſed vp Chriſt from deth, ſhall quycken your mortal bo<g ref="char:EOLhyphen"/>dyes bycauſe that his ſpiryte dwel<g ref="char:EOLunhyphen"/>leth in you. And to the Galathians he ſayth. Gala. v. The fruite of the ſpiryte, is ioye / loue / peace / longe ſufferynge / gentylnes / goodnes / mekenes / faythfulnes / temperan<g ref="char:EOLhyphen"/>cye. Wherby ye may perceiue that fayth co<g ref="char:cmbAbbrStroke">̄</g>meth by the ſpiryte of god, and that we can not be ydle whan we haue receiued it / but loue which is the fruite of the ſpiryte of god, cauſeth vs to worke.</p>
+            <p>I truſt in god, that nowe a very blynd man may perceyue that this lyuely faythe, alwayes ſtyrred to good workes by the holy gooſte, is not that fayth which Iames ſpea<g ref="char:EOLhyphen"/>keth
+<pb facs="tcp:133187:7"/> of here, but that fayth wher<g ref="char:EOLhyphen"/>by he ſheweth his example, which is rather to be called a vayne opi<g ref="char:EOLhyphen"/>nion than faith. And loke as it doth procede out of the herte of a ſynfull man. ij. Corin. iij. whiche of hym ſelf can not ſo moch as ones thinke a good thought, ſo hath it neyther power ne ſtrengthe to worke good<g ref="char:EOLhyphen"/>nes / or any thynge that is accepta<g ref="char:EOLhyphen"/>ble in the ſyght of god. No nor that deed faythe dothe ſaue, iuſtifye, or brynge a man in to gods fauoure, no more than (as ſaynte Iames ſaythe) the bare wordes ſpoken do relefe and comforte a poore man in his neceſſite: Nowe goeth he forth and ſayth.
+<q>But one wyll ſaye vnto me: I haue fayth / and thou haſt dedes. Shewe me thy fayth
+<pb facs="tcp:133187:8"/> by thy dedes / &amp; I wyl ſhewe the my fayth by my dedes.</q>
+            </p>
+            <p>¶Heare he meaneth no more, but that the chryſten people ſholde lyue ſo purely in ſhewynge charite / and doynge the workes of mercy / that they which were not true chryſten might ſe by theyr fruites that they had the ryghte faythe in dede: as Chryſt ſayth. Math. v. Se y<hi rend="sup">t</hi> your light ſo ſhyne before men, that they may ſe your good workes, &amp; glorify your father whiche is in heuen.
+<q>Byleueſt thou (ſaythe Ia<g ref="char:EOLhyphen"/>mes) that there is one god / thou doeſt well: the deuyls byleue it alſo / and tremble. wylte thou vnderſtande (o vayn man) that fayth with<g ref="char:EOLhyphen"/>out dedes is deed?</q>
+            </p>
+            <pb facs="tcp:133187:8"/>
+            <p>¶Theſe wordꝭ are ſo playne, that he ſpeaketh of ſuche an hyſtoricall faith as the deuyls haue, that they do in maner make theſe iugglynge ſpirites madde / yalpynge, roryng, cryenge out, and ſpeakynge euyll: as Petre ſaythe. ij. Pet. ij. of that whiche they knowe not. Of which miſticall ſorte (I call them ſo, by<g ref="char:EOLhyphen"/>cauſe they walke in the miſtes and darkenes of mennes tradicyons) Paule gyueth vs warnynge: ſay<g ref="char:EOLhyphen"/>ing. <abbr>Coll.</abbr>ij. Beware leſt any man come and ſpoyle you thorowe phy<g ref="char:EOLhyphen"/>loſophye and diſceytfull vanitye, thorowe tradicyons of men, and worldly ordynaunces / and not ac<g ref="char:EOLhyphen"/>cordynge to Chryſt. And theſe falſe apoſtles, with all that byleue theyr preachynge: haue none other but this deed fayth that ſaynt Iames here ſpeaketh of, whiche he alſo
+<pb facs="tcp:133187:9"/> dothe teſtifye that the deuylles do not want, which may ſtande with al myſchiefe. And this is to byleue onely y<hi rend="sup">t</hi> there is a god / that Chryſt was borne of a mayde / that he dy<g ref="char:EOLhyphen"/>ed, roſe agayne / and aſcended in to heuen. <abbr>&amp;c.</abbr> And therfore as Iames ſaythe, men are iuſtifyed no more therby than are the deuyls, which are dampned. And as the deuylles haue no faythe gyuen them by the ſpiryte that can repente of euyl do<g ref="char:EOLhyphen"/>ynge, or byleue in Chryſte to be ſa<g ref="char:EOLhyphen"/>ued thorowe hym / or that can loue god, or do his wyll. So haue theſe falſe prophetes, with all their ſecte no ſuche fayth to be ſaued thorowe Chryſtes merytes / thoughe they bable in euery ſermon that Chryſt was borne for our welthe, and ſuf<g ref="char:EOLhyphen"/>fred deth for our redempcyon / and roſe agayne for our iuſtifycacyon:
+<pb facs="tcp:133187:9"/> as it appereth in that they go ſo moche aboute to iuggle with this epiſtle of Iames, and wold therby proue y<hi rend="sup">t</hi> our ſaluacyon ſholde come in parte or in hole by workꝭ, which is, as ſaythe Paule, the denyenge of Chryſtes deth and redempcyon. Gal. ij. For yf ryghtwyſnes (ſayth he) came by y<hi rend="sup">e</hi> lawe, than is Chryſt deed in vayne. j. Ioh. j. &amp; Titu<g ref="char:cmbAbbrStroke">̄</g>. iij. And where as the true churche of Chriſt doth byleue al in one Chriſt, and to be ſaued onely by his bloode and merytes. ij. Petri. ij. Theſe welles without watre, to whome is reſerued the myſte of darkenes for euer: promyſynge vs lybertye, beynge them ſelues the bonde ſer<g ref="char:EOLhyphen"/>uauntes of corruption / do teache to byleue in all thynges ſauynge Chryſte: as in ſoule maſſes / diri<g ref="char:EOLhyphen"/>ges / pardons / and purgatorye:
+<pb facs="tcp:133187:10"/> wherby they playnely denye that Ieſus hath bought vs. ij. Pet. ij. as is propheſyed / and do ſaye that we are purged from ſynne by ſuch thinges. And this am I certayne, that thorowe ſuche thinges which purgeth from Chryſt, but not from ſynne / and haue lefte the common welthe full thynne and bare. For bycauſe men put theyr faythe in it that ought to be ſet and grounded alonely in Chryſte / that they ſhall onleſſe they do repente and turne theyr byleue before they dye, go to the deuyll for all theyr laboure and coſte / excepte the infinyte mercy of god be the more mercyfull. For Chryſt ſaythe. Iohan. iij. He that byleueth not, ſhall be dampned / ye he is co<g ref="char:cmbAbbrStroke">̄</g>dempned alredy. j. Iohan. iiij. Saynt Iohn<g ref="char:cmbAbbrStroke">̄</g> ſaythe alſo, that Antechryſt ſholde denye Chryſte to
+<pb facs="tcp:133187:10"/> be come in the fleſſhe. And that is done alredy thorowe ſuche meanes as are before ſhewed. But I praye god of his mercy to giue his choſen people better grace in vnderſtan<g ref="char:EOLhyphen"/>dynge this epiſtle: than that they ſholde as farre as in them lyeth, make this worthy apoſtle Iames one of thoſe falſe prophetꝭ, that for couetyſe wolde denye the redem<g ref="char:EOLhyphen"/>ption that is in the blood of Chriſt, appoyntynge it to workes, which ſaluacyon (as ſaynt Paule ſaythe. Ephiſ. iiij.) is the gyfte of god / and co<g ref="char:cmbAbbrStroke">̄</g>meth not of workes, leſt any ma<g ref="char:cmbAbbrStroke">̄</g> ſholde booſte hym ſelfe. He ſaythe alſo (Roma. vj.) that the rewarde of ſynne, is dethe / but eternall lyfe is the gyfte of god, throughe our lorde Ieſus Chryſte.</p>
+            <p>Nowe come we to that which our Baal goddes do ſo moche leane to.
+<pb facs="tcp:133187:11"/> And for bycauſe they recken them ſelues ſo ſure hereby: I truſt tho<g ref="char:EOLhyphen"/>rowe gods grace eaſely to ſupplant them, and make theyr buyldynge all lyghtly to fall, and to lye in the myre, ſeyng they toke no faſt holde but buylded vpon a wronge grou<g ref="char:cmbAbbrStroke">̄</g>de as they wrongefully vſe to inter<g ref="char:EOLhyphen"/>prete all ſcripture.
+<q>was not Abraham our fa<g ref="char:EOLhyphen"/>ther iuſtyfyed by his dedes whan he offered Iſaac his ſone vpon the aulter? thou ſeeſt than howe that faythe wroughte in his dedes / and thorowe the dedes was his fayth made perfyte.</q>
+            </p>
+            <p>¶For the vnderſtandynge of this, I exhorte you to knowe that there be two maner of iuſtifycacyons.
+<pb facs="tcp:133187:11"/> The one is called the iuſtifycacyon of the lawe. Roma. iiij. or our owne ryghtwyſnes. Roma. ix. and is no more, but to do the workes of the lawe, wherby the people maye knowe that one is ryghtwyſe. And this ryghtwyſnes maye one haue and yet be dampned: as had the phariſeys, of whom Chryſt ſayth. Math. xxiij. Wo be vnto you ypo<g ref="char:EOLhyphen"/>crytes, whiche outwardly do ap<g ref="char:EOLhyphen"/>pere ryghtwyſe to men, but with<g ref="char:EOLhyphen"/>in ye are full of diſſymulacyon and iniquite. And Paule lykewyſe ſaid of y<hi rend="sup">e</hi> Iewes (Roma. x) that he bare them recorde, that they had a fer<g ref="char:EOLhyphen"/>uent mynde to god warde, but not accordynge to knowlege. For they beynge ignoraunte of the ryght<g ref="char:EOLhyphen"/>wyſenes of god, wente aboute to ſtablyſſhe theyr owne ryghtwyſe<g ref="char:EOLhyphen"/>neſſe / ſo that yet they were diſobe<g ref="char:EOLhyphen"/>dient
+<pb facs="tcp:133187:12"/> to godly ryghtwyſenes.</p>
+            <p>And of this ryghtwyſnes ſpeketh he more; puttynge hym ſelfe for ex<g ref="char:EOLhyphen"/>ample: ſayenge thus. Philip. ij. As touchynge (quod he) the ryght<g ref="char:EOLhyphen"/>wyſnes of the lawe, I was fault<g ref="char:EOLhyphen"/>les. In lykewyſe ſpeaketh Moy<g ref="char:EOLhyphen"/>ſes of this iuſtyfycacyon in theſe wordes: The lorde (quod he) tal<g ref="char:EOLhyphen"/>ked with Moyſes: ſayinge. Deu<g ref="char:EOLhyphen"/>ter. xxx. Speake vnto the chyldre of Iſrael, and ſay to them. Wher<g ref="char:EOLhyphen"/>fore after the doynges of the lande of Egypt wherin ye dwelte, ſe that ye do not / neither after the doinges of the lande of Canaan whyther I wyll brynge you / neyther walke ye in theyr ordynaunces: but do ye after my iudgementes / and kepe my ordinaunces to walke in them. For I am the lorde your god / kepe therfore myne ordinau<g ref="char:cmbAbbrStroke">̄</g>ces, and my
+<pb facs="tcp:133187:12"/> iudgementes / whiche yf any man do, he ſhal lyue therby. And Paule reciteh the effecte of the ſame text, ſayenge. Roma. x. Moyſes deſcry<g ref="char:EOLhyphen"/>beth the ryghtwyſnes of the lawe, howe that a man that dothe the thynges of the lawe ſhal lyue ther<g ref="char:EOLhyphen"/>in. And in this maner meaneth Iames (Gene. xv.) that Abraham was iuſtyfyed by offerynge vp his ſone Iſaac vpon the aulter. Not<g ref="char:EOLhyphen"/>withſtandynge yet this rightwyſ<g ref="char:EOLhyphen"/>nes of Abraham proceded of fayth: as Iames ſheweth. For faythe wroughte in his dedes / and tho<g ref="char:EOLhyphen"/>rowe his dedes dyd iuſtifye or de<g ref="char:EOLhyphen"/>clare hym iuſt before men, whiche coulde not elles ſe his true faythe, wherby he was iuſtyfyed longe tyme before in the ſyght of god. But nowe for bycauſe our ſophy<g ref="char:EOLhyphen"/>ſters do ſaye that Paule &amp; Iames
+<pb facs="tcp:133187:13"/> do not agree in this poynte / and do thynke the cauſe to be, that Paule ſpeaketh ſo lytle of this outwarde ryghtwyſnes, and Iames ſo lytle of the perfyte iuſtifycacyon com<g ref="char:EOLhyphen"/>mynge by faythe: I ſhall proue you that they agree well in one.</p>
+            <p>I haue ſhewed you alredy howe Paule agreeth w<hi rend="sup">t</hi> Iames ꝯcerning the outwarde ryghtwyſnes in that he allegeth ſo playnly for him Moy<g ref="char:EOLunhyphen"/>ſes. Roma. x. Whervnto agreeth full well that he ſpeaketh of hym ſelfe. Philip. ij.</p>
+            <p>Yet peraduenture ye wyll not be thus ſatiſfyed, excepte you knewe that Paule dothe wryte ſo well of the outwarde rightwyſnes, wher<g ref="char:EOLhyphen"/>by Abraham is iuſtifyed before the worlde, as of the inwarde ryght<g ref="char:EOLhyphen"/>wyſnes that made hym commen<g ref="char:EOLhyphen"/>dable before god. But that maye
+<pb facs="tcp:133187:13"/> you lyghtly fynde &amp; ſe, yf ye marke well Paules wordes, where he ſaythe. Roma. iiij. What ſhall we than ſaye, that Abraham our fa<g ref="char:EOLhyphen"/>ther dyd fynde or gette as concer<g ref="char:EOLhyphen"/>nynge the fleſſhe, that is to ſaye / by his workes? That is to ſaye. What profyte had Abraham our father than, as concernynge y<hi rend="sup">e</hi> out<g ref="char:EOLhyphen"/>warde ryghtwyſnes of the lawe? If Abraham (ſaythe Paule) were iuſtifyed by his dedes, than hath he wherin to reioyce: but not a<g ref="char:EOLhyphen"/>fore god.</p>
+            <p>Marke I pray you y<hi rend="sup">t</hi> Paule ſayth, Abraham had wherin to reioyce / that is to ſaye, he had dedes which iuſtified him outwardly afore men with the ryghtwyſnes of the lawe for his obedyence in offerynge vp his ſone Iſaac: So that you may nowe ſe, that Paule and Iames
+<pb facs="tcp:133187:14"/> do accorde in one concernynge the outwarde ryghtwyſnes that ma<g ref="char:EOLhyphen"/>keth men commendable before the worlde. Nowe wyll I ſpeake of ryghtwyſnes approued and com<g ref="char:EOLhyphen"/>mended of god / and proue you that therin they do lykewyſe agree.</p>
+            <p>Of this ryghtwyſnes whiche auayleth and is co<g ref="char:cmbAbbrStroke">̄</g>mended of god / throughe whiche we be abſolued from ſynne / hauynge the ſame for<g ref="char:EOLhyphen"/>gyuen, and not imputed or layde to our charge: ſpeaketh Chriſt in dy<g ref="char:EOLhyphen"/>uers places of the goſpell, ſayenge thus. Be it to the accordyng to thy faythe. Math. ix. Thy faythe hath ſaued the. <abbr>&amp;c.</abbr> He ſaythe alſo in the thyrde chapitre of Iohn<g ref="char:cmbAbbrStroke">̄</g>, that who ſo euer heareth the worde of god, &amp; byleueth in hym that he was ſent of, ſhall not ſe dampnacyon, but is eſcaped from dethe to lyfe. Paule
+<pb facs="tcp:133187:14"/> pryncypally intendynge to proue that, wryteth to the Romaynes in the thyrde chapiter, ſayenge: That the iuſtificacyon alowed before god commeth by the faythe of Ieſus Chryſte, vnto all and vpon all that byleue. <abbr>&amp;c.</abbr> Alſo we knowe (ſaythe Paule. Gala. ij.) that a man is not iuſtified by the workes of the lawe, but by the fayth of Ieſus Chriſt / &amp; we haue byleued in Ieſus Chryſt therfore, that we myghte be iuſti<g ref="char:EOLhyphen"/>fyed by the faythe of Chryſte, and not by the dedes of the lawe / by<g ref="char:EOLhyphen"/>cauſe no fleſſhe ſhall be iuſtifyed by the dedes of the lawe. Moreouer he proueth by ſcrypture that Abra<g ref="char:EOLunhyphen"/>ham was iuſtifyed by fayth before god, ſayeng thus. What (quod he) ſaythe the ſcrypture? To whiche he maketh anſwere thus. Gen<g ref="char:cmbAbbrStroke">̄</g>. xv. Abraham byleued god, and it was
+<pb facs="tcp:133187:15"/> imputed or reckened his iuſtifyca<g ref="char:EOLhyphen"/>cyon or ryghtwyſnes.</p>
+            <p>Nowe accordynge to my promyſe made before, I ſhall lyghtly proue you that Iames agreeth w<hi rend="sup">t</hi> Paule concernynge the ryghtwyſnes co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>mynge by faythe.</p>
+            <p>Iaco. j. Saynte Iames in the fyrſt chapitre of his epiſtle ſaythe, y<hi rend="sup">t</hi> god begate vs of his owne wyll by the worde of lyfe, that we ſhold be the fyrſt of his creatures.</p>
+            <p>Oh good Iames, how do our falſe apoſtles peruerte and myſconſtre thy wordes? For yf thou do know<g ref="char:EOLhyphen"/>lege y<hi rend="sup">t</hi> god begate vs of his owne wyll, than is it euydent that thou thoughteſt not that we myght be<g ref="char:EOLhyphen"/>gete our ſelues by workes / which is to deſpyſe the bloode of Chryſte. Therfore concludeth Iames with Paule (Roma. iiij.) ſayenge. And
+<pb facs="tcp:133187:15"/> the ſcripture was fulfylled which ſayth: Abraham byleued god, and it was imputed to hym for ryght<g ref="char:EOLhyphen"/>wyſnes, &amp; he was called the frende of god.</p>
+            <p>¶Nowe wolde I deſyre all chry<g ref="char:EOLhyphen"/>ſten people to praye to god to gyue vs perfyte fayth to truſt to the me<g ref="char:EOLhyphen"/>rytes and paſſyon of Chryſte / leeſt whyle we hauyng a ferue<g ref="char:cmbAbbrStroke">̄</g>t mynde to god warde, but not accordynge to knowlege, be yet ignoraunte of the ryghtwyſnes alowed of god, (Rom<g ref="char:cmbAbbrStroke">̄</g>. x.) as the Iewes were / and thervpon to go aboute to aduaunce or ſtablyſſhe our owne ryghtwyſ<g ref="char:EOLhyphen"/>nes as they dyd, whiche is diſobe<g ref="char:EOLhyphen"/>dience to the iuſtificacyon accepta<g ref="char:EOLhyphen"/>ble and alowed of god, whiche diſ<g ref="char:EOLhyphen"/>obedyence commytte all they that ſeke to be iuſtyfyed by theyr wor<g ref="char:EOLhyphen"/>kes. Nowe procedeth forth ſaynt
+<pb facs="tcp:133187:16"/> Iames: ſayenge.
+<q>You ſe than how that of de<g ref="char:EOLhyphen"/>des a man is iuſtyfyed: and not of faythe onely.</q>
+            </p>
+            <p>¶As thoughe he wolde ſaye, al<g ref="char:EOLhyphen"/>thoughe it be ſo, that faythe onely iuſtifyeth in the herte &amp; before god without helpe of workes / ye and ere that workes come. Heb. xj. For without faythe it is impoſſible to pleaſe god / yet for bycauſe men do not knowe thy herte, and ſo can not ſe thy faythe: therfore do thy wor<g ref="char:EOLhyphen"/>kes beinge good, make y<hi rend="sup">t</hi> to be cou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ted ryghtwyſe before men. But faythe onely iuſtifyeth before god, and in the herte / and the workes do declare a man iuſtified to y<hi rend="sup">e</hi> worlde, and cauſeth the fayth to be ſene. Fayth iuſtyfyeth before god / and workes before the worlde iuſtifye
+<pb facs="tcp:133187:16"/> vs / that is to ſay, declare vs iuſt.</p>
+            <p>Another example ſaynt Iames putteth here: ſayenge.
+<q>Was not Rahab the harlot iuſtifyed: wha<g ref="char:cmbAbbrStroke">̄</g> ſhe receyued the meſſengers / &amp; ſent them on an other waye?</q>
+            </p>
+            <p>¶I anſwere. Yes truly, outward<g ref="char:EOLhyphen"/>ly and before the people ſhe was by that good worke, in receyuing pea<g ref="char:EOLhyphen"/>ſybly the meſſengers to lodgynge, &amp; ſendyng them out an other way, but inwardly in her herte ſhe was iuſtifyed before through fayth: as Paule ſaythe, ſpeakynge of her in this wyſe. Hebre. xj. By faythe (ſaythe he) Rahab the harlotte pe<g ref="char:EOLhyphen"/>ryſſhed not with the other vnbyle<g ref="char:EOLhyphen"/>uers, after that ſhe had receyued y<hi rend="sup">e</hi> ſpyes to harborowe peaſibly.</p>
+            <p>Now concludeth Iames: ſayeng.
+<q>
+                  <pb facs="tcp:133187:17"/> For as y<hi rend="sup">e</hi> bodye without the ſpiryte is deed: euen ſo fayth without dedes is deed.</q>
+            </p>
+            <p>¶Here to knytte vp all the mater that he intreateth of. Roma. viij. He meaneth, that yf the fayth that a man hath, be not gyuen hym by the ſpiryte of god, and that y<hi rend="sup">e</hi> ſame ſpiryte quyckeneth not the mortall body to do good whan tyme and oc<g ref="char:EOLhyphen"/>caſion co<g ref="char:cmbAbbrStroke">̄</g>meth, than it is but an hi<g ref="char:EOLhyphen"/>ſtoricall and deed fayth of mannes imaginacion / and that a man is no more iuſtified therby, than the deed carcas is quycke<g ref="char:EOLhyphen"/>ned by the ſoule, whan there is none in it.</p>
+            <trailer>FINIS.</trailer>
+            <closer>The laude be to god.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:133187:17"/>
+            <p>¶Imprynted at London in Fleteſtrete / at y<hi rend="sup">e</hi> ſigne of the Sonne / by me Iohan Byddell. Anno dn<g ref="char:cmbAbbrStroke">̄</g>i. 1536</p>
+         </div>
+         <div type="license">
+            <p>Cum priuilegio.</p>
+         </div>
+         <div type="printers_device">
+            <p>
+               <figure>
+                  <head>I B</head>
+                  <figDesc>printer's device of John Byddell</figDesc>
+               </figure>
+            </p>
+            <p>¶Iohn<g ref="char:cmbAbbrStroke">̄</g> Byddell.</p>
+            <pb facs="tcp:133187:18"/>
+            <pb facs="tcp:133187:18" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
